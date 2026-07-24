@@ -21,3 +21,6 @@ La práctica se realiza con datos simulados. No se utilizan IP públicas reales 
 5. Crear un pull request.
 6. Solicitar revisión.
 7. Fusionar cambios aprobados.
+
+## Enfoque de ciberseguridad
+El proyecto permite identificar riesgos, proponer reglas de firewall y documentar incidentes.
