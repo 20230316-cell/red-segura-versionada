@@ -1,23 +1,21 @@
-# Red segura versionada
+## Reflexión final
 
-## Descripción
+**1. ¿Por qué es útil Git en redes y ciberseguridad?**
 
-Este proyecto documenta una red escolar simulada y sus controles básicos de seguridad.
+Git permite llevar un control de cambios en la documentación y configuraciones, facilitando el trabajo colaborativo y la recuperación de versiones anteriores.
 
-## Objetivo técnico
+**2. ¿Qué ventaja tiene trabajar con ramas?**
 
-Registrar cambios en configuraciones, inventarios y recomendaciones de seguridad usando Git y GitHub.
+Las ramas permiten que varios integrantes trabajen al mismo tiempo sin afectar la versión principal del proyecto.
 
-## Alcance
+**3. ¿Por qué es importante revisar cambios antes de fusionarlos?**
 
-La práctica se realiza con datos simulados. No se utilizan IP públicas reales ni credenciales.
+Porque ayuda a detectar errores, mejorar la calidad del contenido y evitar que información incorrecta llegue a la rama principal.
 
-## Flujo de trabajo
+**4. ¿Qué pasaría si una configuración de firewall se modifica sin historial?**
 
-1. Crear una rama.
-2. Realizar cambios.
-3. Crear commits.
-4. Subir la rama a GitHub.
-5. Crear un pull request.
-6. Solicitar revisión.
-7. Fusionar cambios aprobados.
+Sería difícil identificar quién realizó el cambio, cuándo ocurrió y cómo recuperar una configuración funcional.
+
+**5. ¿Qué información sensible no debe subirse a GitHub?**
+
+Contraseñas, credenciales, llaves privadas, datos personales, direcciones IP reales y configuraciones de instituciones.
